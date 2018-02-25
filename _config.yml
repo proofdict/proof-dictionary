@@ -1,7 +1,7 @@
 # See https://jekyllrb.com/docs/configuration/
 title: Proofdict
 description: Proofdict-style dictionary
-
+# Proofdict Theme
 remote_theme: "proofdict/jekyll-theme"
 plugins:
   - jekyll-seo-tag
