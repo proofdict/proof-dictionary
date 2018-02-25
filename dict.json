@@ -1,0 +1,5 @@
+---
+---
+[{% for dict_hash in site.data.dict %}{% assign dict = dict_hash[1] %}{{
+  dict | jsonify
+}}{% if forloop.last %}{% else %},{% endif %}{% endfor %}]
