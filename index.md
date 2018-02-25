@@ -7,9 +7,6 @@ document.addEventListener("DOMContentLoaded", function(event) {
   anchors.add(".dict h2");
 });
 </script>
-<a href="https://github.com/dciccale/css3-github-ribbon" class="github-ribbon">
-  Fork me on GitHub
-</a>
 <style>
     .dict-title {
         padding-bottom: 0.3em;
