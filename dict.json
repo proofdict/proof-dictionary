@@ -1,5 +1,5 @@
 ---
 ---
-[{% for dict_hash in site.data.dict %}{% assign dict = dict_hash[1] %}{{
-  dict | jsonify
+[{% for dict_hash in site.data.proofdict %}{% assign proofdict = proofdict_hash[1] %}{{
+  proofdict | jsonify
 }}{% if forloop.last %}{% else %},{% endif %}{% endfor %}]
