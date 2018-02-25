@@ -15,9 +15,6 @@ document.addEventListener("DOMContentLoaded", function(event) {
     }
 </style>
 <div class="body">
-{% if site.github %}
-<a href="{{site.github.repository_url}}"><img style="position: absolute; top: 0; right: 0; border: 0;" src="https://s3.amazonaws.com/github/ribbons/forkme_right_darkblue_121621.png" alt="Fork me on GitHub"></a>
-{% endif %}
 {% for dict_hash in site.data.dict %}
 {% assign dict = dict_hash[1] %}
   <div class="dict">
