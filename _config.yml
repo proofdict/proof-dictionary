@@ -6,4 +6,4 @@ description: >-
 # Build settings
 markdown: kramdown
 #theme: minima
-theme: jekyll-theme-awesome
+theme: jekyll-bootstrap-theme
