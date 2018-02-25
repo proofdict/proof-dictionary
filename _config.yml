@@ -5,5 +5,4 @@ description: >-
 
 # Build settings
 markdown: kramdown
-#theme: minima
-theme: minimal-mistakes-jekyll
+theme: minima
