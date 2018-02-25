@@ -1,7 +1,7 @@
 # See https://jekyllrb.com/docs/configuration/
 title: Proofdict
-description: >-
-  Proofdict online
+description: Proofdict-style dictionary
 
 # Build settings
 markdown: kramdown
+theme: minima
