@@ -1,5 +1,5 @@
 # See https://jekyllrb.com/docs/configuration/
-title: Proofdict
+title: proof-dictionary
 description: Proofdict-style dictionary
 # Proofdict Theme
 remote_theme: "proofdict/jekyll-theme"
