@@ -3,6 +3,8 @@ title: proof-dictionary
 description: Proofdict-style dictionary
 # Proofdict Theme
 remote_theme: "proofdict/jekyll-theme"
+header_pages:
+ - editor.md
 plugins:
   - jekyll-seo-tag
   - jekyll-remote-theme
