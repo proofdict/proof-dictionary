@@ -1,3 +1,4 @@
 ---
+title: "Editor"
 layout: editor
 ---
