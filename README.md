@@ -11,6 +11,8 @@ This dictionary is for [proofdict](https://github.com/proofdict/proofdict).
 
 ### Update
 
+If you want to update the rule from your dictionary, you can edit it by following steps: 
+
 1. Visit [_data/proofdict][]
 2. Select the file for updating
 3. Edit the file by click ![Edit this file](docs/assets/pencil.png) icon
