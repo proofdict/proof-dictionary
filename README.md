@@ -7,7 +7,7 @@ This dictionary is for [proofdict](https://github.com/proofdict/proofdict).
 ### Add
 
 1. Visit your editor page
- - <https://{your-github-account}.github.io/proof-dictionary/editor/>
+- <https://{your-github-account}.github.io/proof-dictionary/editor/>
 
 ### Update
 
@@ -25,12 +25,11 @@ If you want to remove unnecessary rule from your dictionary, you can remove it b
 
 ### Test
 
-You can test your proof-dictionary is valid format.
+You can check your proof-dictionary is valid format.
 
 Run following command:
 
     npm install
     npm test
-
 
 [_data/proofdict]: _data/proofdict "dictionary data directory"
