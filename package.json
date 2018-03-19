@@ -1,0 +1,10 @@
+{
+  "private": true,
+  "name": "proof-dictionary",
+  "scripts": {
+    "test": "proofdict-tester \"_data/**/*.yml\""
+  },
+  "devDependencies": {
+    "@proofdict/tester-cli": "^2.0.0"
+  }
+}
