@@ -1,5 +1,5 @@
 ---
 title: "Editor"
 layout: editor
-permalink: /editor
+permalink: /editor/
 ---
