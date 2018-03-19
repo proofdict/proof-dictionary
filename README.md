@@ -6,6 +6,8 @@ This dictionary is for [proofdict](https://github.com/proofdict/proofdict).
 
 ### Add
 
+If you want to add new rule to your dictionary, you can add new rule by following steps: 
+
 1. Visit your editor page
 - <https://{your-github-account}.github.io/proof-dictionary/editor/>
 
