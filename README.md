@@ -27,7 +27,7 @@ If you want to remove unnecessary rule from your dictionary, you can remove it b
 
 You can check your proof-dictionary is valid format.
 
-Run following command:
+Run following command in your local:
 
     npm install
     npm test
