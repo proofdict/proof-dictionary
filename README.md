@@ -2,14 +2,19 @@
 
 This dictionary is for [proofdict](https://github.com/proofdict/proofdict).
 
+- Dictionary: <https://proofdict.github.io/proof-dictionary/redirect.html?type=dictionary>
+- Editor: <https://proofdict.github.io/proof-dictionary/redirect.html?type=editor>
+- JSON API: <https://proofdict.github.io/proof-dictionary/redirect.html?type=api>
+
 ## Usage
 
 ### Add
 
 If you want to add new rule to your dictionary, you can add new rule by following steps: 
 
-1. Visit your editor page
-- <https://{your-github-account}.github.io/proof-dictionary/editor/>
+Visit your [editor page](https://proofdict.github.io/proof-dictionary/redirect.html?type=editor):
+
+- <https://proofdict.github.io/proof-dictionary/redirect.html?type=editor>
 
 ### Update
 
