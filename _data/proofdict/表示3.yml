@@ -1,0 +1,13 @@
+id: 01D74P1NDBK3GETV9MAEAHFHNA
+description: ''
+expected: 表示
+patterns:
+  - 標示
+allows:
+  - '{{道路標示}}'
+specs:
+  - from: 標示
+    to: 表示
+  - from: 道路標示
+    to: 道路表示
+tags: []
