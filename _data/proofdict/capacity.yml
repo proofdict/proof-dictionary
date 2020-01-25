@@ -1,0 +1,10 @@
+id: 01DZDX770F5694Y15EQWG0PFA3
+description: キャパシティの表記揺れ
+expected: キャパシティー
+patterns:
+  - キャパシティ
+allows: []
+specs:
+  - from: キャパシティ
+    to: キャパシティー
+tags: []
