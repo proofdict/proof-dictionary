@@ -1,0 +1,14 @@
+id: 01E38YK206TXTYV81BF8A1CK4B
+description: ''
+expected: 静凛
+patterns:
+  - /静(凛|凜|稟)/i
+allows: []
+specs:
+  - from: 静凜
+    to: 静凛
+  - from: 静凜
+    to: 静凛
+  - from: 静凛
+    to: 静凛
+tags: []
