@@ -2,11 +2,15 @@ id: 01E38YK206TXTYV81BF8A1CK4B
 description: ''
 expected: 本間ひまわり
 patterns:
-  - /本間(ひまわり|ヒマワリ)/i
+  - '/本[間|馬|鮪|麻|真|魔|摩](ひまわり|ヒマワリ)/i'
 allows: []
 specs:
   - from: 本間ヒマワリ
     to: 本間ひまわり
   - from: 本間ひまわり
+    to: 本間ひまわり
+  - from: 本摩ひまわり
+    to: 本間ひまわり
+  - from: 本麻ヒマワリ
     to: 本間ひまわり
 tags: []
