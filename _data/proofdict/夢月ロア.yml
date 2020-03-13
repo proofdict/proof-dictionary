@@ -1,0 +1,16 @@
+id: 01E38Z16CSXKW1E1E3TMT00MX7
+description: ''
+expected: 夢月ロア
+patterns:
+  - '/([夢結柚湯癒弓佑優]子?[月木築姫輝])(ロア|ろあ)/i'
+allows: []
+specs:
+  - from: 結月ろあ
+    to: 夢月ロア
+  - from: 柚木ロア
+    to: 夢月ロア
+  - from: 柚月ロア
+    to: 夢月ロア
+  - from: 柚子木ロア
+    to: 夢月ロア
+tags: []
