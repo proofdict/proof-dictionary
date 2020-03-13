@@ -1,0 +1,14 @@
+id: 01E38Y5WQ6R60S9WQC7HNB4XSK
+description: ''
+expected: 月ノ美兎
+patterns:
+  - /月(ノ|の)美(兎|免)/i
+allows: []
+specs:
+  - from: 月ノ美免
+    to: 月ノ美兎
+  - from: 月の美兎
+    to: 月ノ美兎
+  - from: 月ノ美兎
+    to: 月ノ美兎
+tags: []
