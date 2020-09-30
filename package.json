@@ -5,6 +5,6 @@
     "test": "proofdict-tester \"_data/**/*.yml\""
   },
   "devDependencies": {
-    "@proofdict/tester-cli": "^2.0.0"
+    "@proofdict/tester-cli": "^3.1.0"
   }
 }
