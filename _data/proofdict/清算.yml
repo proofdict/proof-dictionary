@@ -1,0 +1,10 @@
+id: 01EPPTXJRP657NWXD2KFKC27DD
+description: 精算が多い
+expected: 清算
+patterns:
+  - 精算
+allows: []
+specs:
+  - from: 経費清算
+    to: 経費清算
+tags: []
