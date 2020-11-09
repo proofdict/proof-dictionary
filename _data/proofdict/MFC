@@ -1,0 +1,14 @@
+id: 01EPPSHNXB04SVYWBP6Z77Z8CR
+description: マネーフォワードとクラウドの間には空白が入ります。
+expected: マネーフォワード クラウド
+patterns:
+  - マネーフォワードクラウド
+  - MFクラウド
+  - ＭＦクラウド
+allows: []
+specs:
+  - from: MFクラウド
+    to: マネーフォワード クラウド
+  - from: マネーフォワードクラウド
+    to: マネーフォワード クラウド
+tags: []
