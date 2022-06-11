@@ -1,0 +1,10 @@
+id: 01G59QR61D36JXAFW6G9Q4G5WN
+description: ''
+expected: test
+patterns:
+  - テスト
+allows: []
+specs:
+  - from: テスト
+    to: test
+tags: []
