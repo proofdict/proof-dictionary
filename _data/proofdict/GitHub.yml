@@ -1,0 +1,12 @@
+id: 01GRTYNRYPTVZM5YQQ6AEJ8GGV
+description: ''
+expected: GitHub
+patterns:
+  - github
+  - Github
+allows: []
+specs:
+  - from: github
+    to: GitHub
+tags:
+  - opinion
