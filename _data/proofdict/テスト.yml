@@ -1,0 +1,10 @@
+id: 01HPK7AGGPS5GP6BFB89T1DKBM
+description: ''
+expected: テスト
+patterns:
+  - てすと
+allows: []
+specs:
+  - from: てすと
+    to: テスト
+tags: []
